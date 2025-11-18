@@ -1,4 +1,2 @@
-NETFLIX CASE STUDY
-This case study is about netflix in which we analyse how much active/inactive userbase netflix has mad potential risk of losing active user we also analyse price nad availability of netflix in different regions of world 
-SOFTWARE USED 
+This case study is about netflix in which we analyse how much active/inactive userbase netflix has mad potential risk of losing active user we also analyse price nad availability of netflix in different regions of world ,
 We used IBM SPSS MODELER for analysing and created churn prediction model for identifying active and inactive user base of netflix and we analysed risk of loosing active userbase 
